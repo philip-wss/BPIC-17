@@ -1,0 +1,20 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Data
+data/*
+!data/README.md
+!data/manual/
+reports/*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor
+.idea/
+
+# Notes
+notes/
+notebooks/00_data_exploration.ipynb
