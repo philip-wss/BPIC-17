@@ -1,6 +1,6 @@
 # BPIC-17: Process Model Discovery and Drift Analysis
 
-Code for the first assignment of *Business Process Prediction, Simulation, and Optimization* (TUM, SS 2026). The task is to derive a process model from the [BPI Challenge 2017](https://doi.org/10.4121/uuid:5f3067df-f10b-45da-b98b-86ae4c7a310b) event log (31,509 loan applications). The model should serve as the base for a later simulation. The analysis also checks whether arrival rate, case duration and process behaviour drift over time.
+Code for the first assignment of *Business Process Prediction, Simulation, and Optimization* (TUM, WS 26/27). The task is to derive a process model from the [BPI Challenge 2017](https://doi.org/10.4121/uuid:5f3067df-f10b-45da-b98b-86ae4c7a310b) event log (31,509 loan applications). The model should serve as the base for a later simulation. The analysis also checks whether arrival rate, case duration and process behaviour drift over time.
 
 The project covers:
 
